@@ -12,10 +12,10 @@ GSM Arena is a leading mobile technology website providing in-depth information 
 - **User Opinions**: Community discussions, ratings, and feedback on devices.  
 
 ## 🌍 Visit Us  
-Explore the latest mobile tech at **[GSM Arena](https://gsma-rena.com/)**.  
+Explore the latest mobile tech at **[GSM Arena](https://gsm-arena.com/)**.  
 
 ## 📞 Contact  
-For inquiries, collaborations, or feedback, visit our **[Contact Page](https://gsma-rena.com/contact/)**.  
+For inquiries, collaborations, or feedback, visit our **[Contact Page](https://gsm-arena.com/contact/)**.  
 
 ---
 
